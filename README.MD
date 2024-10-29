@@ -200,6 +200,7 @@ If you find this project helpful, please give it a ⭐️!
 
 - GitHub: [@sazumivicky](https://github.com/sazumivicky)
 - Website: [sazumi.moe](https://sazumi.moe)
+- Email: [root@sazumi.moe](mailto:root@sazumi.moe)
 
 ## 📝 Changelog
 
