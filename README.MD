@@ -204,7 +204,7 @@ If you find this project helpful, please give it a ⭐️!
 
 ## 📝 Changelog
 
-### [1.0.0] - 2024-03-XX
+### [1.0.0] - 10-30-2024
 - Initial release
 - Basic payment gateway integration
 - Multiple payment method support
