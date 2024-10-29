@@ -1,0 +1,13 @@
+QRIS http://localhost:3000/payment?method=qris&pizzas=2&display_name=John%20Doe&support_message=Semangat%20terus!
+GOPAY http://localhost:3000/payment?method=gopay&pizzas=2&display_name=John%20Doe&support_message=Semangat%20terus!
+OVO http://localhost:3000/payment?method=ovo&pizzas=1&display_name=John%20Doe&support_message=Semangat%20terus!&ovo_number=085236226786
+DANA http://localhost:3000/payment?method=dana&pizzas=1&display_name=John%20Doe&support_message=Semangat%20terus!
+LINK AJA http://localhost:3000/payment?method=linkaja&pizzas=1&display_name=John%20Doe&support_message=Semangat%20terus!&linkaja_number=085236226786
+SHOPEEPAY http://localhost:3000/payment?method=shopeepay&pizzas=1&display_name=John%20Doe&support_message=Semangat%20terus!
+VA-OTHERS http://localhost:3000/payment?method=va-others&pizzas=3&display_name=John%20Doe&support_message=Semangat%20terus!
+VA-BNI http://localhost:3000/payment?method=va-bni&pizzas=2&display_name=John%20Doe&support_message=Semangat%20terus!
+VA-BRI http://localhost:3000/payment?method=va-bri&pizzas=2&display_name=John%20Doe&support_message=Semangat%20terus!
+VA-MANDIRI http://localhost:3000/payment?method=va-mandiri&pizzas=3&display_name=John%20Doe&support_message=Semangat%20terus!
+VA-PERMATA http://localhost:3000/payment?method=va-permata&pizzas=3&display_name=John%20Doe&support_message=Semangat%20terus!
+VA-BCA http://localhost:3000/payment?method=va-bca&pizzas=3&display_name=John%20Doe&support_message=Semangat%20terus!
+CARDS http://localhost:3000/payment?method=cards&pizzas=3&display_name=John%20Doe&support_message=Semangat%20terus!
